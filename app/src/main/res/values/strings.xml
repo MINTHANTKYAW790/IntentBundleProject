@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentBundleProject</string>
+    <string name="year">Year:</string>
+    <string name="name">Name:</string>
+    <string name="mkpt">MKPT:</string>
+    <string name="btn">Send</string>
+    <string name="rb1">Pass</string>
+    <string name="rb2">Fail</string>
+    <string name="result">Result:</string>
+</resources>
